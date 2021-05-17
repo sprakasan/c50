@@ -1,0 +1,16 @@
+.header{
+    background-color:rgb(172, 255, 255);
+    display:flex;
+    justify-content: space-between;
+}
+.menu a{
+margin-right:300px;
+display:flex;
+justify-content:space-evenly;
+padding:5px;
+}
+.images{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
